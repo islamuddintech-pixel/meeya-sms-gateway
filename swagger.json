@@ -1674,7 +1674,7 @@
       "url": "https://www.apache.org/licenses/LICENSE-2.0"
     },
     "title": "Meeya SMS Gateway API",
-    "version": "1.0.2"
+    "version": "1.0.4"
   },
   "openapi": "3.0.1",
   "paths": {
